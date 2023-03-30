@@ -1,0 +1,6 @@
+O Gateway serve como ponto único de entrada,
+desse modo, acessa-se as aplicações pela sua porta seguida
+do nome do recurso
+http://localhost:8082/pedidos-ms/pedidos/porta
+
+OpenFeing => usado para comunicação síncrona entre os serviços
